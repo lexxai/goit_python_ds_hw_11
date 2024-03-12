@@ -30,6 +30,8 @@ LSTM вирішує проблему зникаючого градієнту, з
 ## Models compare
 Total modlels:  20
 
+![img_va](img_va.png)
+
 ![img_va_sorted](img_va_sorted.png)
 
 ## Learning curves
