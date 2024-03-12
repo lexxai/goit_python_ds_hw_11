@@ -28,7 +28,7 @@ LSTM вирішує проблему зникаючого градієнту, з
 
 
 ## Models compare
-Total modlels:  3
+Total modlels:  20
 
 ![img_va_sorted](img_va_sorted.png)
 
@@ -40,12 +40,60 @@ Total modlels:  3
 
 ![Learning of (Model_3)](img_Model_3_ca.png)
 
-## Confusion matrix
+![Learning of (Model_4)](img_Model_4_ca.png)
 
+![Learning of (Model_5)](img_Model_5_ca.png)
+
+![Learning of (Model_1_a)](img_Model_1_a_ca.png)
+
+![Learning of (Model_2_a)](img_Model_2_a_ca.png)
+
+![Learning of (Model_3_a)](img_Model_3_a_ca.png)
+
+![Learning of (Model_4_a)](img_Model_4_a_ca.png)
+
+![Learning of (Model_5_a)](img_Model_5_a_ca.png)
+
+![Learning of (Model_1_b)](img_Model_1_b_ca.png)
+
+![Learning of (Model_2_b)](img_Model_2_b_ca.png)
+
+![Learning of (Model_3_b)](img_Model_3_b_ca.png)
+
+![Learning of (Model_4_b)](img_Model_4_b_ca.png)
+
+![Learning of (Model_5_b)](img_Model_5_b_ca.png)
+
+![Learning of (Model_1_c)](img_Model_1_c_ca.png)
+
+![Learning of (Model_2_c)](img_Model_2_c_ca.png)
+
+![Learning of (Model_3_c)](img_Model_3_c_ca.png)
+
+![Learning of (Model_4_c)](img_Model_4_c_ca.png)
+
+![Learning of (Model_5_c)](img_Model_5_c_ca.png)
+
+
+## Confusion matrix
 | Model  | Model  | Model  |
 |:------:|:------:|:------:|
 | <img src="img_Model_1_cm.png" alt="Confusion matrix of (Model_1)" width="235"> | <img src="img_Model_2_cm.png" alt="Confusion matrix of (Model_2)" width="235"> | <img src="img_Model_3_cm.png" alt="Confusion matrix of (Model_3)" width="235"> |
 | Model_1 | Model_2 | Model_3 |
+| <img src="img_Model_4_cm.png" alt="Confusion matrix of (Model_4)" width="235"> | <img src="img_Model_5_cm.png" alt="Confusion matrix of (Model_5)" width="235"> | <img src="img_Model_1_a_cm.png" alt="Confusion matrix of (Model_1_a)" width="235"> |
+| Model_4 | Model_5 | Model_1_a |
+| <img src="img_Model_2_a_cm.png" alt="Confusion matrix of (Model_2_a)" width="235"> | <img src="img_Model_3_a_cm.png" alt="Confusion matrix of (Model_3_a)" width="235"> | <img src="img_Model_4_a_cm.png" alt="Confusion matrix of (Model_4_a)" width="235"> |
+| Model_2_a | Model_3_a | Model_4_a |
+| <img src="img_Model_5_a_cm.png" alt="Confusion matrix of (Model_5_a)" width="235"> | <img src="img_Model_1_b_cm.png" alt="Confusion matrix of (Model_1_b)" width="235"> | <img src="img_Model_2_b_cm.png" alt="Confusion matrix of (Model_2_b)" width="235"> |
+| Model_5_a | Model_1_b | Model_2_b |
+| <img src="img_Model_3_b_cm.png" alt="Confusion matrix of (Model_3_b)" width="235"> | <img src="img_Model_4_b_cm.png" alt="Confusion matrix of (Model_4_b)" width="235"> | <img src="img_Model_5_b_cm.png" alt="Confusion matrix of (Model_5_b)" width="235"> |
+| Model_3_b | Model_4_b | Model_5_b |
+| <img src="img_Model_1_c_cm.png" alt="Confusion matrix of (Model_1_c)" width="235"> | <img src="img_Model_2_c_cm.png" alt="Confusion matrix of (Model_2_c)" width="235"> | <img src="img_Model_3_c_cm.png" alt="Confusion matrix of (Model_3_c)" width="235"> |
+| Model_1_c | Model_2_c | Model_3_c |
+| <img src="img_Model_4_c_cm.png" alt="Confusion matrix of (Model_4_c)" width="235"> | <img src="img_Model_5_c_cm.png" alt="Confusion matrix of (Model_5_c)" width="235"> |  |
+| Model_4_c | Model_5_c |  |
+
+
 
 # Прогноз
 ```
