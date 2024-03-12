@@ -46,11 +46,7 @@ Total modlels:  3
 | Model_1 | Model_2 | Model_3 |
 
 # Прогноз
-
-
 ```
-
-
 True: 'With hong kong heart andy and veteran star wan has everything going for it for the beginning part of the movie...' result='Negative'
 True: 'To quote one review of the movie it started off slow and stopped the plot was enough although some of the...' result='Negative'
 False: 'I have never felt the need to add a review to this website until now but having just sat through the...' result='test: Negative / predict: Positive'
